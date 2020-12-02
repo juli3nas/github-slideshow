@@ -114,3 +114,6 @@ exclude: [
   "reveal.js/LICENSE",
   "reveal.js/package.json"
 ]
+- name: actions-goveralls
+  uses: shogo82148/actions-goveralls@v1.4.2
+
